@@ -836,7 +836,7 @@ public class Action extends BaseClass
 		}
 		String newImageString="http://localhost:8080/job/MyStoreProject/ws/MyStoreProject/ScreenShots/" + filename + "_"
 				+ dateName + ".png";
-		return destination;
+		return newImageString;
 	}
 	public static String getCurrentTime()
 	{
