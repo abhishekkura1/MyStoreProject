@@ -102,7 +102,7 @@
 					  <suiteXmlFile>${xmlFiles}</suiteXmlFile>
 				  </suiteXmlFiles>
 				  <systemPropertyVariables>
-					  <appURL>${project.url}</appURL>
+					  <appURL>${url}</appURL>
 				  </systemPropertyVariables>
 			  </configuration>
 		  </plugin>
